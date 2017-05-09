@@ -1,5 +1,2 @@
-#### simple webpage template:
-####
-####       .html
-####       /    \
-####    .js     .css
+#### simple webpage template: .html .css .js
+
