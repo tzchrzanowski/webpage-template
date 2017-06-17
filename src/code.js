@@ -9,5 +9,10 @@ $(document).ready(function (){
 	document.getElementById("demoJS").innerHTML = "js works!";
 	// jquery
 	$("#demoJQ").html("jquery works!");
+	$('.scrollspy').scrollSpy();
+
 });
 
+// $(document).ready(function(){
+//   $('.scrollspy').scrollSpy();
+// });
